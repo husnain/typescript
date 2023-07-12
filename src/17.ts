@@ -20,3 +20,5 @@ guest_list_17.splice(2, guest_list_17.length - 2);
 guest_list_17.forEach((item) => {
     console.log(`Hello ${item} ! You are still invited to dinner.`);
 });
+
+export default guest_list_17;
